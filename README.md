@@ -13,4 +13,12 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Add screenshots of the project pages
+- Add information to reservation,menu, and contacts section
+
+<!-- Add your ideas here :) -->
+
+## Screenshots
+
+<img src="./images/header_page.png" alt="Header Page" />
+<img src="./images/recipes_page.png" alt="Recipes Page">
