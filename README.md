@@ -13,8 +13,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-- Add screenshots of the project pages
-- Add information to reservation,menu, and contacts section
+- Add Javascript and database connection
 
 <!-- Add your ideas here :) -->
 
