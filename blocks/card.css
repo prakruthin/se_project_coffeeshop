@@ -1,5 +1,6 @@
 .card {
   width: 540px;
+  font-family: "inter", Arial, sans-serif;
 }
 
 .card__list {
@@ -12,8 +13,7 @@
 }
 
 .card__title {
-  /* margin: 0 0 32px; */
-  margin: 0;
+  margin: 0 0 32px;
   font-weight: bold;
   font-size: 20px;
   line-height: 30px;

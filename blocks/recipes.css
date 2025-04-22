@@ -3,7 +3,7 @@
   background: center / cover no-repeat #0a2750
     url("../images/background_recipes.svg");
   padding: 100px 80px 215px;
-  /* margin: 0; */
+  font-family: "inter", Arial, sans-serif;
 }
 
 .recipes__title {

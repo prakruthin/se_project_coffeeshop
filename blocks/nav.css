@@ -22,4 +22,10 @@
   color: #000;
   text-decoration: none;
   font-weight: 500;
+  transition: opacity 0.5s;
+  cursor: pointer;
+}
+
+.nav__link:hover {
+  opacity: 0.5;
 }
