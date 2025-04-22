@@ -6,6 +6,8 @@
   display: flex;
   flex-direction: column;
   font-family: "inter", Arial, sans-serif;
+  z-index: 1;
+  box-sizing: border-box;
 }
 
 .header__title {
@@ -38,6 +40,7 @@
   right: 5px;
   width: 646px;
   height: 568px;
+  z-index: -1;
 }
 
 .header__footer {

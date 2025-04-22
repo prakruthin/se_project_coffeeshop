@@ -20,8 +20,8 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Screenshots
 
-<img src="./screenshots/header_page.png" alt="Header Page" />
-<img src="./screenshots/recipes_page.png" alt="Recipes Page">
+<img src="./screenshots/header.png" alt="Header Page" />
+<img src="./screenshots/recipes.png" alt="Recipes Page">
 <img src="./screenshots/reservation.png" alt="Reservation Page">
 <img src="./screenshots/menu.png" alt="Menu Page">
 <img src="./screenshots/about.png" alt="About Page">
